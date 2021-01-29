@@ -1,2 +1,2 @@
-# opengl-mac-app-wrapper
-wrapping an OpenGL app in a Mac .app file
+# opengl-mac-app-wrapper 
+wrapping an OpenGL app in a Mac .app file (using Automator and Xcode) 
